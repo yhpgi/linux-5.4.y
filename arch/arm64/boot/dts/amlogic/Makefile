@@ -10,6 +10,7 @@ dtb-$(CONFIG_ARCH_MESON) += meson-g12a-s905l3a-m401a.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-x96-max.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-x96-max-no-cvbs.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-x96-max-rmii.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-g12a-zxv10-v5.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12b-dreambox-one.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12b-dreambox-two.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12b-gsking-x.dtb
